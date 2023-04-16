@@ -6,8 +6,7 @@ theme: "PaperMod"
 params:
   homeInfoParams:
     Title: Sup bruh 😎
-    Content: This is a static subdomain consisting of markdown files exported from Loqseq and converted into a Hugo framework hosted through Cloudflare.
-    These are my notes on various topics.
+    Content: This is a static subdomain consisting of markdown files exported from Loqseq and converted into a Hugo framework hosted through Cloudflare. These are my notes on various topics.
 
   socialIcons: # optional
     - name: "github"
